@@ -1,0 +1,18 @@
+{
+    "prompts": [
+        "o dia está bonito",
+        "o clima esta agradavel",
+        "sorvete é bom",
+        "skate é legal",
+        "odeio esperar",
+        "tocar violão é prazeroso"
+    ],
+    "valores": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+    ]
+}

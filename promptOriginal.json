@@ -1,0 +1,28 @@
+{
+    "prompts": [
+        "amo programar",
+        "Alfred Hitchcook é um diretor incrível",
+        "adoro linux",
+        "Frutas são gostosas",
+        "Inteligencia Artificial é impressionante",
+        "Não gosto do Windows",
+        "Que pessoa grosseira",
+        "odeio reuniões longas",
+        "humanos são complicados",
+        "O transito esta horrivel",
+        "o dia está bonito"
+    ],
+    "valores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ]
+}
